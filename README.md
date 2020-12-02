@@ -1,2 +1,2 @@
-# DCFR_Lab-FURG
-Here you can find all te supplementary material for the papers published by the Demersal and Cephalopods Fisheries Research Lab from the Federal University of Rio Grande (FURG). Our webiste is https://demersais.furg.br/
+# Haimovici-et-al.-Micropogonias-furnieri.-Fisheries-Research.-2021
+Here you can find all te supplementary material for the paper entitled "Long-term changes in population dynamics and life history contribute to explain the resilience of a stock of Micropogonias furnieri (Sciaenidae, Teleostei) in the SW Atlantic" authored by Manuel Haimovici, Leticia Maria Cavole, Jason M. Cope, Luís Gustavo Cardoso. 
